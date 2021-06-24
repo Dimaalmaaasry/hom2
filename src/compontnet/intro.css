@@ -1,0 +1,23 @@
+
+.dima{
+    font-family: "Times New Roman", Times, serif;
+}
+img {
+    border: 1px solid #ddd;
+    padding: 5px;
+    margin-left:-1000px;
+    width: 100px;
+    border-radius: 60%;
+    
+  }
+  .text{
+    padding-right: 16cm;
+    margin-top: -5cm;
+   
+    
+  }
+  a {
+    text-decoration: none;
+    color: black;
+  }
+
